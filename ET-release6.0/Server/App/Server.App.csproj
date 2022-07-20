@@ -26,6 +26,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\ThirdParty\Box2DSharp\Box2DSharp.csproj" />
     <ProjectReference Include="..\Model\Server.Model.csproj" />
   </ItemGroup>
 
